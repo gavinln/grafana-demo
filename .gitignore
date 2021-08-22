@@ -1,0 +1,13 @@
+*~
+*.pyc
+*.class
+*.swp
+*.o
+*.hi
+*.retry
+*.log
+.vscode/
+.mypy_cache/
+.ipynb_checkpoints/
+download_data_dir/
+node_modules/
