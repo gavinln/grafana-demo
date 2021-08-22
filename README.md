@@ -3,7 +3,7 @@
 * Source code - [Github][1]
 * Author - Gavin Noronha
 
-[1]: 
+[1]: https://github.com/gavinln/grafana-demo
 
 ## About
 
